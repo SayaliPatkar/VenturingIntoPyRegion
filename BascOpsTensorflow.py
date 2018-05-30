@@ -1,3 +1,4 @@
+
 #To learn and understand basic python opertions, syntax and working
 import tensorflow as tf
 import os
