@@ -9,7 +9,8 @@ import sys, os, time
 import string #absolute_import
 
 for x in range(0,10):
-    print("Hello", "World",x , sep='----', end='\n\n')  # this print supported python 3, but with imported future print_function this statement is functional in older python version too
+    print("Hello", "World",x , sep='----', end='\n\n')  # this type of print supported python 3, 
+    #but with imported future print_function this statement is functional in older python version too
     time.sleep(1)
 
 print(8/7)  # prints 1.1428571428571428
